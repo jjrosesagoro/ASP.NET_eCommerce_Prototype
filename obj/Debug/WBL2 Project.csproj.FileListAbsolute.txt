@@ -1,0 +1,73 @@
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\WBL2 Project.dll.config
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\WBL2 Project.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\WBL2 Project.pdb
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\csc.exe
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\csc.exe.config
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\csc.rsp
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\csi.exe
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\csi.exe.config
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\csi.rsp
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.AppContext.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Collections.Immutable.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Console.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.IO.Compression.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.IO.FileSystem.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.IO.Pipes.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Security.AccessControl.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Security.Claims.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.ValueTuple.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Xml.XPath.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\vbc.exe
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\vbc.exe.config
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\vbc.rsp
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\VBCSCompiler.exe
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\roslyn\VBCSCompiler.exe.config
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Antlr3.Runtime.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\AspNet.ScriptManager.bootstrap.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\AspNet.ScriptManager.jQuery.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.Web.Infrastructure.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Newtonsoft.Json.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\System.Web.Optimization.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\WebGrease.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\System.Web.Optimization.xml
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Newtonsoft.Json.xml
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Antlr3.Runtime.pdb
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\obj\Debug\WBL2 Project.csprojAssemblyReference.cache
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\obj\Debug\WBL2 Project.csproj.CoreCompileInputs.cache
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\obj\Debug\WBL2 Project.csproj.CopyComplete
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\obj\Debug\WBL2 Project.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\obj\Debug\WBL2 Project.pdb
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\itextsharp.dll
+D:\2019 CW\WBL2\WBL2 Project\WBL2 Project\bin\itextsharp.xml
